@@ -18,9 +18,9 @@ Instructions:
 
 #   Make some changes to the index.html and CSS files in the develop branch.
 
-    Merge the develop branch back into the master branch. Resolve any merge conflicts.
+#   Merge the develop branch back into the master branch. Resolve any merge conflicts.
 
-    Create a new branch named feature/demo.
+#   Create a new branch named feature/demo.
 
     Make changes to the index.html and CSS files in the feature/demo branch.
 
