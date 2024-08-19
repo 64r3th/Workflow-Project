@@ -10,7 +10,7 @@ Instructions:
 
 #   In the new repository, create a test.blah file.
 
-    Create a valid index.html file and push it to the repository.
+#   Create a valid index.html file and push it to the repository.
 
     Create a valid CSS file and push it to the repository.
 
