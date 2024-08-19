@@ -22,11 +22,11 @@ Instructions:
 
 #   Create a new branch named feature/demo.
 
-    Make changes to the index.html and CSS files in the feature/demo branch.
+#   Make changes to the index.html and CSS files in the feature/demo branch.
 
-    Push the feature/demo branch to GitHub.
+#   Push the feature/demo branch to GitHub.
 
-    Host the feature/demo branch on GitHub Pages. Ensure the repository is public.
+#   Host the feature/demo branch on GitHub Pages. Ensure the repository is public.
 
     Merge the feature/demo branch back into the develop branch. Resolve any merge conflicts.
 
