@@ -28,8 +28,8 @@ Instructions:
 
 #   Host the feature/demo branch on GitHub Pages. Ensure the repository is public.
 
-    Merge the feature/demo branch back into the develop branch. Resolve any merge conflicts.
+#   Merge the feature/demo branch back into the develop branch. Resolve any merge conflicts.
 
-    Merge the develop branch back into the master branch. Resolve any merge conflicts.
+#   Merge the develop branch back into the master branch. Resolve any merge conflicts.
 
-    Submit a git log of your commits and the link to your GitHub repository.
+#   Submit a git log of your commits and the link to your GitHub repository.
